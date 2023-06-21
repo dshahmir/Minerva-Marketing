@@ -1,0 +1,465 @@
+@media only screen and (max-width: 1328px){
+    .Communication {
+       
+        padding: 80px 90px 80px 90px;
+        
+    }
+    .Questions{
+        padding: 80px 90px 80px 90px;
+    }
+    .footer{
+        padding: 80px 90px 80px 90px;
+    }
+}
+@media only screen and (max-width: 1280px){
+
+    .services{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+
+}
+
+
+@media only screen and (max-width: 1180px) {
+
+ 
+
+.services{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.About{
+    padding: 80px 50px 80px 50px;
+}
+.darken {
+    padding: 80px 100px 80px 100px;
+   
+}
+
+
+.Communication{
+    padding: 80px 20px 80px 20px;
+    
+}
+.Questions{
+    padding: 80px 20px 80px 20px;
+}
+
+.hero h1{
+    font-size: 85px;
+    line-height: 80px;
+}
+.content_nav {
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.content_nav {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+  }
+  @media only screen and (max-width: 1080px){
+    .footer{
+        padding: 80px 20px 80px 20px;
+    }
+    .darken {
+        padding: 80px 20px 80px 20px;
+       
+    }
+    .About-Description p{
+        font-size: 14px;
+    }
+    .Com-btn{
+        flex-direction: column;
+     }
+  }
+
+@media only screen and (max-width: 1000px) {
+    .pcimage{
+        min-width: 450px;
+         height: 412px;
+     }
+    
+
+    .hero h1{
+        font-size: 72px;
+        line-height: 70px;
+    }
+    
+    
+    .services{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .About-Description{
+        max-width: 400px;
+    }
+
+  }
+  @media only screen and (max-width: 950px){
+    .Communication{
+        flex-direction: column;
+        align-items: center;
+        padding: 80px 20px 80px 20px;
+    }
+    .Com-btn{
+        justify-content: center;
+    }
+    .Questions{
+        flex-direction: column;
+        align-items: center;
+        padding: 80px 20px 80px 20px;
+
+    }
+    .darken{
+        padding: 80px 20px 80px 20px;
+    }
+    .hero button {
+        font-size: 19px;
+    }
+    .work{
+        max-width: 590px;
+    }
+
+  }
+  @media only screen and (max-width: 900px){
+.Serv-partition{
+   flex-direction: column;
+   align-items: center;
+   gap: 40px;
+}
+.nav_links  {
+    display: none;
+}
+.hamburger{
+    display:block;
+    position: relative;
+}
+
+.career{
+    flex-direction: column;
+    align-items: center;
+
+}
+.About-main{
+    flex-direction: column;
+    justify-content: center;
+}
+.About-Description{
+    max-width: 600px;
+}
+.About-Aim{
+    flex-direction: column;
+    
+}
+.Aim-Card{
+    max-width: 568px;
+}
+.owl{
+    width: 90%;
+}
+.mind-owl{
+    width: 90%;
+}
+.contact{
+    flex-direction: column;
+    align-items: center;
+}
+.Digital-services1{
+    width: 100%;
+}
+.About{
+    padding: 80px 20px 80px 20px;
+}
+.career{
+    padding: 80px 20px 80px 20px;
+}
+.Communication{
+    padding: 80px 10px 80px 10px;
+}
+
+.pcimage{
+    margin-left: auto;
+    margin-right: auto;
+}
+.About-Description{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Services-dropdown {
+    width: 100%;
+}
+
+  }
+
+@media only screen and (max-width: 832px) {
+
+    .hero h1{
+        font-size: 56px;
+        line-height: 56px;
+    }
+    .footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .foot-list{
+        width: 240px;
+       
+    }
+    .foot-list ul{
+        padding-left: 0px;
+    }
+    .Digital-services{
+        font-size: 15px;
+    }
+    .hero button {
+        font-size: 18px;
+    }
+
+    
+    .services h1{
+    font-size: 28px;
+    }
+    
+    .services h2{
+        font-size: 28px;
+        }
+    
+
+
+
+    
+    .content_nav {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+   
+    .hero button {
+        padding-left: 45px;
+        padding-right: 45px;
+        padding-top: 8px;
+        padding-bottom: 8px;}
+
+  }
+  @media only screen and (max-width: 734px){
+
+        
+      
+        .hero button {
+            font-size: 17px;
+        }
+        .services h1{
+            font-size: 24px;
+            }
+        
+           
+  }
+@media only screen and (max-width: 636px) {
+
+    .hero h1{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .help-note h1{
+        font-size: 30px;
+        width: 350px;
+       
+    }
+    .Com-btn{
+        flex-direction: column;
+
+    }
+    .btn-1{
+        padding: 15px 65.5px 15px 65.5px;
+    }
+
+    .contact-info{
+        width: 350px;
+    }
+    .form{
+        width: 350px;
+    }
+    .content_nav {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .Analytics-icon{
+        width: 185px;
+        height: 57px;
+        
+    }
+    .Analytics{
+        width: 185px;
+        padding: 0px 0px 0px 0px;
+       
+    }
+    .Frequently{
+        width: 350px;
+    }
+    .Req-lists h4{
+        width: 319px;
+    }
+    .Requirement{
+        width: 350px;
+    }
+    .Com-Card{
+        width: 330px;
+    }
+   
+    .hero p{
+        font-size: 14px;
+    }
+    .hero button{
+        font-size: 20px;
+    }
+    .hero button {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 7px;
+        padding-bottom: 7px;}
+        .services{
+            padding-left: 20px;
+        padding-right: 20px;
+        }
+        .Card{
+            max-width: 400px;
+        }
+        .creativity h3{
+            font-size: 15px;
+        }
+        .Strategy h3{
+            font-size: 15px;
+        }
+        .work h1 {
+            font-size: 28px;
+        }
+    
+  }
+@media only screen and (max-width: 580px) {
+
+    .hero h1{
+        font-size: 48px;
+        line-height: 38px;
+    }
+    .owl{
+        width: auto;
+    }
+    .mind-owl{
+        width: auto;
+    }
+    .help-note h1{
+        font-size: 20px;
+       
+    }
+    .content_nav {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .owl h1{
+        font-size: 18px;
+    }
+    .owl p{
+        font-size: 14px;
+    }
+    .mind-owl h1{
+        font-size: 18px;
+    }
+
+    .mind-owl h3{
+        font-size: 17px;
+    }
+    .services h2{
+        font-size: 24px;
+        }
+   
+    .hero button {
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 6px;
+        padding-bottom: 6px;}
+
+  }
+  @media only screen and (max-width: 560px){
+
+    .pcimage{
+        min-width: 380px;
+        height: 330px;
+    }
+    .services h1{
+        font-size: 20px;
+        }
+    
+    .services p{
+        font-size: 13px;
+        }
+    .hero p{
+        font-size: 13px;
+    }
+    .hero h1{
+        font-size: 43px;
+    }
+    
+  }
+
+@media only screen and (max-width: 542px) {
+
+    .hero h1{
+        width: 350px;
+        font-size: 40px;
+        line-height: 43px;
+    }
+    .hero button {
+        font-size: 16px;
+    }
+    .content_nav {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+   
+    .hero button {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;}
+   
+
+  }
+  @media only screen and (max-width: 450px){
+    .pcimage{
+        min-width:300px ;
+        height: 300px;
+    }
+    .services {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .services h2{
+        font-size: 18px;
+        }
+
+
+  }
+  @media only screen and (max-width: 400px){
+    .pcimage{
+        width:300px ;
+        height: 280px;
+    }
+    .help-btn{
+
+        font-size: 14px;
+    }
+    .hero button {
+        font-size: 15px;
+    }
+
+    .help-note h1{
+    width: 300px;
+       
+    }
+  }
