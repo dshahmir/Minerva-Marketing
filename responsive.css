@@ -133,7 +133,7 @@
    align-items: center;
    gap: 40px;
 }
-.nav_links  {
+.nav_links{
     display: none;
 }
 .hamburger{
@@ -291,7 +291,7 @@
     }
     .Analytics-icon{
         width: 185px;
-        height: 57px;
+        height: 80px;
         
     }
     .Analytics{
