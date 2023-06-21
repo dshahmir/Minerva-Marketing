@@ -1,0 +1,440 @@
+@media only screen and (max-width: 1328px){
+
+    /* Online-Competition */
+    .online-competition {
+       
+        padding: 80px 60px 80px 60px;
+        
+    }
+
+    /* Our Digital Services */
+
+    .digi-serv {
+        
+        padding: 80px 60px 80px 60px;
+        
+    }
+    
+    /* Why us */
+    .About{
+        padding: 80px 60px 80px 60px;
+    }
+
+       /* Contact us */
+       .contact{
+        padding: 80px 60px 80px 60px;
+       
+    }
+
+    /* help Section */
+    .darken{
+        padding: 80px 60px 80px 60px;
+    }
+
+    /* footer */
+    .footer{
+        padding: 80px 60px 80px 60px;
+    }
+
+
+}
+@media only screen and (max-width: 1280px){
+
+}
+@media only screen and (max-width: 1180px){
+
+    /* Header-Section */
+    .content_nav {
+        padding-left: 160px;
+        padding-right: 160px;
+    }
+    
+    .content_nav {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    /* Hero-Section */
+    .hero h1{
+        font-size: 85px;
+        line-height: 80px;
+    }
+
+}
+@media only screen and (max-width: 1080px){
+    .Com-btn{
+        flex-direction: column;
+     }
+    
+    /* Online-Competition */
+    .online-competition {
+       
+        padding: 80px 20px 80px 20px;
+        
+        
+    }
+    .online-competition h1{
+       
+        font-size: 28px;
+
+        
+    }
+    .online-competition p{
+       
+        font-size: 15px;
+
+        
+    }
+    .online-content {
+       max-width: 400px;
+    }
+
+
+    /* Our Digital Services */
+
+    .digi-serv {
+        
+        padding: 80px 20px 80px 20px;
+        
+    }
+
+    /* Why us */
+    .About{
+        padding: 80px 20px 80px 20px;
+    }
+
+       /* Contact us */
+       .contact{
+        padding: 80px 20px 80px 20px;
+       
+    }
+
+     /* help Section */
+     .darken{
+        padding: 80px 20px 80px 20px;
+    }
+
+    /* footer */
+    .footer{
+        padding: 80px 20px 80px 20px;
+    }
+
+    
+
+}
+@media only screen and (max-width: 1000px){
+    /* Hero-Section */
+    .hero h1{
+        font-size: 72px;
+        line-height: 70px;
+    }
+
+    /* Our Digital Services */
+    .digi-serv h1{
+       
+        font-size: 28px;
+        
+        }
+    .digi-serv h2{
+         
+         font-size: 22px;
+       
+        }
+    .digi-serv p{
+        
+        font-size: 15px;
+       
+        }
+
+}
+@media only screen and (max-width: 950px){
+    .Com-btn{
+        justify-content: center;
+    }
+
+}
+@media only screen and (max-width: 900px){
+    
+    /* Online-Competition */
+    .online-competition {
+       
+       flex-direction: column;
+       align-items: center;
+       gap: 40px;
+        
+    }
+    .online-content {
+       max-width: 700px;
+    }
+    .online-bullets{
+       max-width: 700px;
+    }
+    .bullets p {
+        max-width: 642px;
+       
+    }
+
+    /* Our Digital Services */
+    .digi-serv-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Why us */
+    .About-Aim {
+      flex-direction: column;
+    }
+    .About-main h1{
+      font-size: 30px;
+    }
+    .About-main p{
+      font-size: 15px;
+    }
+    .About-Aim h1{
+      font-size: 22px;
+    }
+    .About-Aim p{
+      font-size: 15px;
+    }
+    .Aim-Card{
+        max-width: 568px;
+    }
+
+
+    /* Contact us */
+    .contact{
+        padding: 80px 60px 80px 60px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact-info{
+        width: 100%;
+    }
+    .form{
+        width: 100%;
+    }
+
+    /* footer */
+    .footer{
+        flex-direction: column;
+        align-items: start;
+        gap: 50px;
+       
+    }
+    .footer{
+        padding: 80px 100px 80px 100px;
+    }
+   
+    .foot-list{
+        max-width: 250px;
+       
+    }
+    .foot-list ul{
+        padding-left: 0px;
+    }
+    .footer-content {
+        max-width: 600px;
+    }
+    .footer-Address{
+        max-width: 600px;
+      }
+
+
+
+
+}
+@media only screen and (max-width: 832px){
+    /* Header-Section */
+    
+    .content_nav {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    /* Hero-Section */
+    .hero h1{
+        font-size: 56px;
+        line-height: 56px;
+    }
+}
+@media only screen and (max-width: 734px){
+
+}
+@media only screen and (max-width: 636px){
+    .Com-btn{
+        flex-direction: column;
+
+    }
+    /* Header-Section */
+    .content_nav {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    /* Hero-Section */
+    .hero h1{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .hero p{
+        font-size: 14px;
+    }
+
+    /* Contact us */
+    .contact-info{
+        width: 350px;
+    }
+    .form{
+        width: 350px;
+    }
+    .contact-info{
+        width: 350px;
+    }
+
+
+    /* help us */
+    .help-note h1{
+        font-size: 30px;
+        width: 350px;
+       
+    }
+
+
+    
+}
+@media only screen and (max-width: 580px){
+ 
+    /* Header-Section */
+    .content_nav {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    /* Hero-Section */
+    .hero h1{
+        font-size: 48px;
+        line-height: 38px;
+    }
+    /* Online-Competition */
+    .bullets p {
+       font-size: 14px;
+    }
+    .online-competition h1{
+       
+        font-size: 24px;
+
+        
+    }
+    .online-competition p{
+       
+        font-size: 14px;
+
+        
+    }
+
+     /* Our Digital Services */
+     .digi-serv h1{
+       
+        font-size: 24px;
+        
+        }
+    .digi-serv h2{
+         
+         font-size: 20px;
+       
+        }
+    .digi-serv p{
+        
+        font-size: 14px;
+       
+        }
+
+    /* Why us */
+    .About-main h1{
+        font-size: 24px;
+        line-height: 38px;
+      }
+      .About-main p{
+        font-size: 14px;
+      }
+      .About-Aim h1{
+        font-size: 20px;
+      }
+      .About-Aim p{
+        font-size: 14px;
+      }
+
+      /* help us */
+      .help-note h1{
+        font-size: 20px;
+       
+    }
+     /* footer */
+     
+    .footer{
+        padding: 80px 20px 80px 20px;
+    }
+      
+
+}
+@media only screen and (max-width: 560px){
+    /* Header-Secton */
+    .content_nav {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    /* Hero-Section */
+    .hero p{
+        font-size: 13px;
+    }
+    .hero h1{
+        font-size: 43px;
+    }
+
+    /* help us */
+      
+    .help-btn{
+
+        font-size: 16px;
+    }
+
+    
+
+}
+@media only screen and (max-width: 542px){
+    /* Hero-Section */
+    .hero h1{
+        width: 350px;
+        font-size: 40px;
+        line-height: 43px;
+    }
+
+      /* help us */
+      
+        .help-btn{
+
+            font-size: 15px;
+        }
+
+
+
+}
+@media only screen and (max-width: 450px){
+    /* footer */
+    .footer{
+       
+        align-items: start;
+       
+    }
+
+}
+@media only screen and (max-width: 400px){
+    /* help us */
+    .help-note h1{
+        width: 300px;
+           
+        }
+        .help-btn{
+
+            font-size: 14px;
+        }
+
+}
