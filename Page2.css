@@ -637,3 +637,198 @@ font-size: 18px;
 line-height: 150%;
 }
 
+
+/* <!-- Content Writting Services Hero-Section --> */
+.CWS-Hero{
+  max-width: 1760px;
+  margin: 0px auto 0px auto;
+
+ 
+}
+.background-Hero{
+  background-image: url('./images/space.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.black-bg-Hero{
+  background-color: #00000094;
+  padding: 80px 160px 80px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.black-bg-Hero h1{
+  font-style: normal;
+  max-width: 1120px;
+font-weight: 400;
+font-size: 100px;
+margin: 0px 0px 0px 0px;
+line-height: 100%;
+color: #EDBD6B;
+}
+.black-bg-Hero p{
+margin: 0px 0px 0px 0px;
+max-width: 538px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #FFFFFF;
+
+}
+
+
+/* Audience */
+.Audience{
+  max-width: 1440px;
+  background-color: #fff;
+  margin: 0px auto 0px auto;
+  padding: 80px 160px 80px 160px;
+  font-family: Manrope;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  align-items: center;
+}
+.Audience-Services{
+  max-width: 1120px;
+  margin: 0px auto 0px auto;
+  display: flex;
+  gap: 70px;
+  
+}
+.Audience-info{
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  
+}
+.Audience-info h1{
+ margin: 0px 0px 0px 0px;
+ font-size: 36px;
+ font-weight: 800;
+ line-height: 49px;
+ font-style: normal;
+}
+.Audience-info p{
+ margin: 0px 0px 0px 0px;
+ color: #505050;
+font-size: 16px;
+font-family: Manrope;
+line-height: 150%;
+}
+.Audience-image{
+  width: 525px;
+  height: 335px;
+}
+.Audience-Cards{
+  max-width:1120px ;
+  display: flex;
+
+  
+
+}
+
+.Audience-cards-container{
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+.Audience-cards-container h4{
+ margin: 0px 0px 0px 0px;
+ font-size: 24px;
+font-family: Manrope;
+font-weight: 800;
+line-height: 150%;
+}
+.Audience-cards-container p{
+ margin: 0px 0px 0px 0px;
+ font-size: 18px;
+font-family: Manrope;
+line-height: 150%;
+}
+.Audience-cards-container img{
+ margin: 0px 0px 0px 0px;
+}
+.horizontal-line{
+  width: 2px;
+  border: none;
+  background-color: #000000;
+}
+.Audience-cards{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+ 
+}
+
+/* <!-- Article News Product(ANP-Card) --> */
+.ANP-bg{
+  max-width: 1760px;
+  margin: 0px auto 0px auto;
+  
+  
+  
+ 
+  background-image: url('./images/space.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+
+
+}
+.ANP-balck-bg{
+  
+  padding: 80px 160px 80px 160px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.ANP-Cards{
+  max-width: 1120px;
+  color: #FFFFFF;
+  display: flex;
+  gap: 20px;
+
+}
+.A-Card{
+  padding: 20px;
+  max-width: 360px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 10px;
+
+  background: rgba(0, 0, 0, 0.8);
+}
+.readmore{
+  display: flex;
+  gap: 10px;
+  color: #EDBD6B;
+  font-size: 18px;
+font-family: Manrope;
+line-height: 150%;
+}
+.A-Card h5{
+  margin: 0px 0px 0px 0px;
+  font-size: 20px;
+font-family: Manrope;
+font-weight: 700;
+line-height: 130%;
+}
+.A-Card p{
+  margin: 0px 0px 0px 0px;
+}
+.article{
+  font-size: 16px;
+font-family: Manrope;
+line-height: 150%;
+color: #AFAFAF;
+}

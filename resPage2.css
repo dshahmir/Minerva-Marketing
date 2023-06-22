@@ -44,9 +44,24 @@
 
 }
 
+/* <!-- Content Writting Services Hero-Section --> */
+.black-bg-Hero{
+    padding: 80px 60px 80px 60px;
+}
+
+/* Audience */
+.Audience{
+    padding: 80px 60px 80px 60px;
+    
+}
+
+
 
 }
-@media only screen and (max-width: 1280px){
+@media only screen and (max-width: 1130px){
+    .ANP-Cards{
+        flex-direction: column;
+    }
 
 }
 @media only screen and (max-width: 1180px){
@@ -147,6 +162,31 @@
 .costumer h4{
     font-size: 17px;
 
+}
+
+/* <!-- Content Writting Services Hero-Section --> */
+.black-bg-Hero{
+    padding: 80px 20px 80px 20px;
+}
+.black-bg-Hero h1{
+    font-size: 75px;
+    line-height: 75px;
+   
+}
+.black-bg-Hero p{
+    line-height: 25.6px;
+
+   
+}
+
+/* Audience */
+.Audience{
+    padding: 80px 20px 80px 20px;
+    
+    
+}
+.Audience-Services{
+    gap: 20px;
 }
     
 
@@ -284,6 +324,33 @@
     
     }
 
+    /* <!-- Content Writting Services Hero-Section --> */
+
+.black-bg-Hero h1{
+    font-size: 55px;
+    line-height: 55px;
+   
+}
+
+/* Audience */
+
+.Audience-Services{
+   flex-direction: column;
+   gap: 70px;
+   align-items: center;
+   
+}
+.Audience-info {
+    max-width: 800px;}
+
+    .Audience-cards-container{
+        flex-direction: column;
+        /* align-items: center; */
+
+    }
+    .horizontal-line{
+        display: none;
+    }
 
 
 
@@ -417,6 +484,13 @@
         padding: 80px 20px 80px 20px;
     }
       
+      /* <!-- Content Writting Services Hero-Section --> */
+
+.black-bg-Hero h1{
+    font-size: 43px;
+    line-height: 43px;
+   
+}
 
 }
 @media only screen and (max-width: 560px){
@@ -440,7 +514,17 @@
 
         font-size: 16px;
     }
-
+    /* Audience */
+    
+    .Audience-image img{
+        width: 100%;
+        height: 100%;
+       }
+       .Audience-image {
+        width: 340px;
+        height: 200px;
+       }
+        
     
 
 }
@@ -458,8 +542,7 @@
 
             font-size: 15px;
         }
-
-
+        
 
 }
 @media only screen and (max-width: 450px){
@@ -469,6 +552,9 @@
         align-items: start;
        
     }
+    /* Audience */
+    
+    
 
 }
 @media only screen and (max-width: 400px){
@@ -481,5 +567,8 @@
 
             font-size: 14px;
         }
-
+    /* <!-- Content Writting Services Hero-Section --> */
+        .black-bg-Hero p{
+            max-width: 300px;
+        }
 }
