@@ -1,7 +1,17 @@
 body button {
   cursor: pointer;
+ 
+    
+  
+}
+body{
+  margin: 0px 0px 0px 0px;
+    box-sizing: border-box;
+    
 }
 body li {
+  
+ 
   cursor: pointer;
 }
 body svg {
@@ -157,6 +167,7 @@ body svg {
 }
 .Com-btn {
   display: flex;
+  justify-content: center;
   gap: 10px;
 }
 .Com-btn button {
@@ -538,3 +549,91 @@ margin-bottom: 0px;
 .footer-Address{
   max-width: 259px;
 }
+
+
+
+/* <!-- Design Services Hero Section --> */
+.DS-Hero{
+  max-width: 1760px;
+  margin: 0px auto 0px auto;
+  padding: 0px 0px 0px 0px;
+
+}
+.DS-Hero img{
+  width: 100%;
+ height: 100%;
+  margin: 0px 0px 0px 0px;
+}
+
+
+/* Costumer Impression */
+
+.costumer{
+ max-width: 1440px;
+ font-family: Manrope;
+ margin: 0px auto 0px auto;
+ padding: 80px 160px 80px 160px ;
+ display: flex ;
+ flex-direction: column;
+ gap: 70px;
+}
+.impression-info{
+  width: 100%;
+  display: flex;
+ align-items: center;
+  flex-direction: column;
+  gap: 34px;
+}
+.impression-info h1{
+  max-width: 580px;
+  font-style: normal;
+font-weight: 800;
+margin: 0px 0px 0px 0px;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+
+}
+.impression-info p{
+  font-style: normal;
+  margin: 0px 0px 0px 0px;
+  max-width: 620px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #505050;
+}
+.impression-cards-container{
+  border-top: 1px solid #000000;;
+  border-bottom: 1px solid #000000;
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.impression-cards{
+  display: flex ;
+  flex-direction: column;
+  gap: 15px;
+  width: 265px;
+}
+.impression-cards h4{
+  margin: 0px 0px 0px 0px;
+  font-style: normal;
+font-weight: 800;
+font-size: 21px;
+line-height: 150%;
+}
+.impression-cards img{
+  margin: 0px 0px 0px 0px;
+}
+.impression-cards p{
+  margin: 0px 0px 0px 0px;
+  font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+}
+
